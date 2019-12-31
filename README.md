@@ -10,8 +10,8 @@ The overall algorithm was derived from the [wikipedia page on Langston's Ant](ht
 ## Usage
 ```python ant.py [board size] [square size] [delay in ms] [number of steps of algorithm] ```
 
-![Image of Ant program after 300 steps](readme_images/example.PNG)
-*Image of Ant Program after 300 steps*
+![Image of Ant program after 500 steps](readme_images/example.PNG)
+*Image of Ant Program after 500 steps*
 
 ### Useful Links
 [Python Docs](https://docs.python.org/3/)
